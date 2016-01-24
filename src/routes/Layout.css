@@ -1,0 +1,18 @@
+@import "~bootswatch/lumen/bootstrap.css";
+
+html, body, #mount {
+  height: 100%;
+  width: 100%
+}
+
+body {
+  padding-top: 70px;
+}
+
+section {
+  height: 100%;
+}
+
+:local .main {
+  height: 100%
+}
